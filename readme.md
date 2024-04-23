@@ -1,0 +1,1 @@
+This is my output of the Python Refresher section of the Udemy course "FastAPI - The Complete Course 2024 (Beginner + Advanced)".
